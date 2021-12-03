@@ -2,7 +2,7 @@ package com.hillel.lectures.lecture7;
 
 public class AwesomeLinkedList {
 
-    private int size = 0;
+    private int size = 100;
     private Node first;
     private Node last;
 
